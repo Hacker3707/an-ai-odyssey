@@ -1,2 +1,6 @@
 # an-ai-odyssey
-Đồ án cuối kỳ môn Trí tuệ Nhân tạo của Nhóm 13 - IT0001 - K50 (started from Jan 2026) || Đề tài: Ứng dụng thuật toán Backtrack và WOA cho bài toán Knapsack Problem
+This group contains 4 hazardous members:
+1. Võ Nguyễn Ngọc Hà - 31241021281 - Hacker3707
+2. Mai Ngọc Ánh - 31241022888 - Meringoc
+3. Hồ Minh Khang - 312410
+4. Lam Chí Hiển - - HeinCheese
