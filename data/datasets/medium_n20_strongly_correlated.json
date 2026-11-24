@@ -1,0 +1,30 @@
+{
+  "name": "medium_n20_strongly_correlated",
+  "type": "strongly_correlated",
+  "n_items": 20,
+  "capacity": 100,
+  "optimal_value": 190,
+  "optimal_items": [1, 2, 3, 4, 5, 6, 7, 8, 15],
+  "items": [
+    {"id": 1,  "weight": 6,  "value": 16},
+    {"id": 2,  "weight": 7,  "value": 17},
+    {"id": 3,  "weight": 8,  "value": 18},
+    {"id": 4,  "weight": 9,  "value": 19},
+    {"id": 5,  "weight": 10, "value": 20},
+    {"id": 6,  "weight": 11, "value": 21},
+    {"id": 7,  "weight": 12, "value": 22},
+    {"id": 8,  "weight": 13, "value": 23},
+    {"id": 9,  "weight": 14, "value": 24},
+    {"id": 10, "weight": 15, "value": 25},
+    {"id": 11, "weight": 16, "value": 26},
+    {"id": 12, "weight": 18, "value": 28},
+    {"id": 13, "weight": 20, "value": 30},
+    {"id": 14, "weight": 22, "value": 32},
+    {"id": 15, "weight": 24, "value": 34},
+    {"id": 16, "weight": 25, "value": 35},
+    {"id": 17, "weight": 28, "value": 38},
+    {"id": 18, "weight": 30, "value": 40},
+    {"id": 19, "weight": 32, "value": 42},
+    {"id": 20, "weight": 35, "value": 45}
+  ]
+}

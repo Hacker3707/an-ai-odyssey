@@ -1,0 +1,20 @@
+{
+  "name": "small_n10_uncorrelated",
+  "type": "uncorrelated",
+  "n_items": 10,
+  "capacity": 50,
+  "optimal_value": 275,
+  "optimal_items": [1, 2, 4, 6, 9],
+  "items": [
+    {"id": 1, "weight": 10, "value": 60},
+    {"id": 2, "weight": 20, "value": 100},
+    {"id": 3, "weight": 30, "value": 120},
+    {"id": 4, "weight": 5,  "value": 30},
+    {"id": 5, "weight": 15, "value": 75},
+    {"id": 6, "weight": 8,  "value": 45},
+    {"id": 7, "weight": 12, "value": 50},
+    {"id": 8, "weight": 25, "value": 110},
+    {"id": 9, "weight": 7,  "value": 40},
+    {"id": 10,"weight": 18, "value": 85}
+  ]
+}
