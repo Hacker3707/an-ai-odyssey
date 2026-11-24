@@ -1,0 +1,83 @@
+{
+  "name": "knapsack_n15_weakly_correlated",
+  "type": "weakly_correlated",
+  "n_items": 15,
+  "capacity": 452,
+  "items": [
+    {
+      "id": 1,
+      "weight": 6,
+      "value": 12
+    },
+    {
+      "id": 2,
+      "weight": 76,
+      "value": 85
+    },
+    {
+      "id": 3,
+      "weight": 3,
+      "value": 4
+    },
+    {
+      "id": 4,
+      "weight": 66,
+      "value": 66
+    },
+    {
+      "id": 5,
+      "weight": 62,
+      "value": 61
+    },
+    {
+      "id": 6,
+      "weight": 56,
+      "value": 66
+    },
+    {
+      "id": 7,
+      "weight": 49,
+      "value": 39
+    },
+    {
+      "id": 8,
+      "weight": 95,
+      "value": 90
+    },
+    {
+      "id": 9,
+      "weight": 67,
+      "value": 76
+    },
+    {
+      "id": 10,
+      "weight": 48,
+      "value": 50
+    },
+    {
+      "id": 11,
+      "weight": 51,
+      "value": 44
+    },
+    {
+      "id": 12,
+      "weight": 84,
+      "value": 92
+    },
+    {
+      "id": 13,
+      "weight": 88,
+      "value": 93
+    },
+    {
+      "id": 14,
+      "weight": 70,
+      "value": 68
+    },
+    {
+      "id": 15,
+      "weight": 83,
+      "value": 92
+    }
+  ]
+}
